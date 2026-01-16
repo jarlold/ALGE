@@ -21,5 +21,3 @@ be compatible with any device on the Arduino platform- provided it has adequate 
 It uses less program space than tensorflow lite and probably other autodifferentiation engines. I believe it uses less
 memory too, but I didn't check everything else on the market.
 
-## License
-This work 
