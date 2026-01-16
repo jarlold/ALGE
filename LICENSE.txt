@@ -1,26 +1,26 @@
-# Preamble
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
 
-By ancient rites, this code is bound,
-No mortal hand may twist it 'round.
+The author of the Software decides he likes you.
 
-# Terms of Use
+The opinion of the author of the Software is subject to change AT ANY TIME
+and such changes will affect the above condition and thus the rights to
+the Software.
 
-Permission granted: to mend and make,
-To copy, share, for spirit's sake.
-Yet mark: no coin, no profit gained,
-Shall taint this magic, unrestrained.
+Should any person who has obtained a copy of the Software be dealing in it
+legitimately while the author decides he does not like them, such persons will
+be required to write an apology letter and prostrate themselves before the author,
+proclaiming him as their eternal ruler. They will forfeit any material or
+economic gain they have directly or indirectly benefited from the Software,
+to the author.
 
-# Disclaimer
-
-Provided "as is," without a truth,
-No crone will blame, if ill, forsooth.
-
-# Enforcement
-
-The pact by moonlight, strongly spun,
-Binds souls if greed hath now been won.
-
-# Cost
-
-The threads are spun, the spell complete,
-No greed, lest curses, you shall meet.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
